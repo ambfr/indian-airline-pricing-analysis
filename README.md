@@ -64,6 +64,14 @@ The final dashboard contains six visualizations and key performance indicators c
 
 A PDF version of the dashboard is also available in the `dashboard` folder.
 
+## Analysis & Documentation
+
+Detailed analysis notes explain the findings from each dashboard visualization, including airline pricing, flight volume, stop distribution, route pricing, departure timing, and flight duration.
+
+See [Analysis Notes](analysis_notes.md) for the complete findings and limitations.
+
+The [Data Dictionary](data_dictionary.md) documents the dataset fields and derived columns used in the analysis.
+
 ## Key Metrics
 
 The dashboard tracks:
