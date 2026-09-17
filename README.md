@@ -54,7 +54,15 @@ The analysis focuses on:
 
 The final dashboard contains six visualizations and key performance indicators covering ticket pricing, airline activity, routes, stops, departure timing, and flight duration.
 
+### Dashboard Preview
+
 ![Indian Airline Pricing & Route Analysis Dashboard](dashboard/indian_airline_dashboard.png)
+
+### Live Google Sheets Dashboard
+
+[View the interactive dashboard](https://docs.google.com/spreadsheets/d/1ytAs6teEVM2bAmFENDRaSY7Yv93JOPelIjoFMYtWAaY/edit?usp=sharing)
+
+A PDF version of the dashboard is also available in the `dashboard` folder.
 
 ## Key Metrics
 
